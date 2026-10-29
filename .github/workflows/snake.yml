@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-snake/github-contribution-grid-snake.svg?color_snake=#e63946&color_dots=#161b22,#1f2630,#2d333b,#3d444d,#8a0e20
+            assets/github-snake/github-contribution-grid-snake.svg?color_snake=#c1121f&color_dots=#ebedf0,#ffd5da,#ff9aa4,#ff5c6b,#e63946
             assets/github-snake/github-contribution-grid-snake-dark.svg?color_snake=#ff4757&color_dots=#0d1117,#151b23,#1f2630,#2d333b,#ff4757
 
       - name: Commit snake
