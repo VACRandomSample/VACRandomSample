@@ -72,13 +72,14 @@
 <div align="center">
   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=VACRandomSample&bg_color=0D1117&color=E63946&line=E63946&point=FF6B6B&area=true&area_color=8A0E20&hide_border=true" alt="activity graph" />
 </div>
-### 🐍 「Contribution snake」
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-snake/github-contribution-grid-snake.svg">
   <img alt="snake" src="assets/github-snake/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+<div align="center"><sub>🐍 the snake devours the contribution graph</sub></div>
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
