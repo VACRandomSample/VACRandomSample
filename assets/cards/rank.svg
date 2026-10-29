@@ -5,6 +5,6 @@
 <text x="30" y="56" font-family="Verdana,Segoe UI,sans-serif" font-size="22" font-weight="bold" letter-spacing="2" fill="#E63946">SEIREITEI RANK</text>
 <text x="30" y="92" font-family="Verdana,Segoe UI,sans-serif" font-size="20" fill="#F0F0F5">隊長  CAPTAIN</text>
 <rect x="420" y="74" width="540" height="12" rx="6" fill="#161B22" stroke="#30363D"/>
-<rect x="420" y="74" width="64" height="12" rx="6" fill="#FF6B6B"/>
-<text x="960" y="62" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#8B949E" text-anchor="end">560 / 1000 commits to BANKAI</text>
+<rect x="420" y="74" width="85" height="12" rx="6" fill="#FF6B6B"/>
+<text x="960" y="62" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#8B949E" text-anchor="end">579 / 1000 commits to BANKAI</text>
 </svg>
