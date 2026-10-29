@@ -87,8 +87,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/GitHub-VACRandomSample-e63946?style=for-the-badge&logo=github)](https://github.com/VACRandomSample)
-[![](https://img.shields.io/badge/Telegram-%40username-e63946?style=for-the-badge&logo=telegram)](https://t.me/username)
-[![](https://img.shields.io/badge/Почта-me%40example.com-e63946?style=for-the-badge&logo=gmail)](mailto:me@example.com)
+[![](https://img.shields.io/badge/Telegram-%40vacrandomsample-e63946?style=for-the-badge&logo=telegram)](https://t.me/vacrandomsample)
+[![](https://img.shields.io/badge/Сайт-vacrandomsample.ru-e63946?style=for-the-badge&logo=googlechrome)](https://vacrandomsample.ru)
+[![](https://img.shields.io/badge/Почта-hello%40vacrandomsample.ru-e63946?style=for-the-badge&logo=gmail)](mailto:hello@vacrandomsample.ru)
 
 *Достаточно назвать своё имя — и Врата откроются.*
 
