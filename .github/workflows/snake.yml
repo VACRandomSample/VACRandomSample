@@ -25,6 +25,13 @@ jobs:
             assets/github-snake/github-contribution-grid-snake.svg?color_snake=#c1121f&color_dots=#ebedf0,#ffd5da,#ff9aa4,#ff5c6b,#e63946
             assets/github-snake/github-contribution-grid-snake-dark.svg?color_snake=#ff4757&color_dots=#0d1117,#151b23,#1f2630,#2d333b,#ff4757
 
+      - name: Generate stat cards
+        run: python3 .github/scripts/gen_cards.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          CARDS_OUT: assets/cards
+
       - name: Commit snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

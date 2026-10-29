@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img">
+<title>VACRandomSample - contribution graph</title>
+<rect x="0.5" y="0.5" width="999" height="299" rx="12" fill="#0D1117" stroke="#30363D"/>
+<rect x="0.5" y="10" width="4" height="280" rx="2" fill="#8A0E20"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF6B6B"/><stop offset="1" stop-color="#FF6B6B" stop-opacity="0.05"/></linearGradient></defs>
+<text x="26" y="38" font-family="Verdana,Segoe UI,sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#E63946">CONTRIBUTION GRAPH 「月報」</text>
+<line x1="26" y1="52" x2="974" y2="52" stroke="#30363D" stroke-width="1"/>
+<line x1="70" y1="236.0" x2="960" y2="236.0" stroke="#30363D" stroke-width="1" opacity="0.35"/>
+<text x="62" y="240.0" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">0</text>
+<line x1="70" y1="195.0" x2="960" y2="195.0" stroke="#30363D" stroke-width="1" opacity="0.35"/>
+<text x="62" y="199.0" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">22</text>
+<line x1="70" y1="154.0" x2="960" y2="154.0" stroke="#30363D" stroke-width="1" opacity="0.35"/>
+<text x="62" y="158.0" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">45</text>
+<line x1="70" y1="113.0" x2="960" y2="113.0" stroke="#30363D" stroke-width="1" opacity="0.35"/>
+<text x="62" y="117.0" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">67</text>
+<line x1="70" y1="72.0" x2="960" y2="72.0" stroke="#30363D" stroke-width="1" opacity="0.35"/>
+<text x="62" y="76.0" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">90</text>
+<path d="M 70 236 L 70.0 236.0 L 87.1 232.4 L 104.2 234.2 L 121.3 236.0 L 138.5 236.0 L 155.6 236.0 L 172.7 236.0 L 189.8 234.2 L 206.9 236.0 L 224.0 236.0 L 241.2 236.0 L 258.3 234.2 L 275.4 236.0 L 292.5 236.0 L 309.6 234.2 L 326.7 234.2 L 343.8 236.0 L 361.0 210.5 L 378.1 236.0 L 395.2 234.2 L 412.3 226.9 L 429.4 234.2 L 446.5 236.0 L 463.7 217.8 L 480.8 236.0 L 497.9 201.4 L 515.0 228.7 L 532.1 236.0 L 549.2 236.0 L 566.3 234.2 L 583.5 181.3 L 600.6 212.3 L 617.7 234.2 L 634.8 236.0 L 651.9 194.1 L 669.0 226.9 L 686.2 232.4 L 703.3 203.2 L 720.4 199.6 L 737.5 217.8 L 754.6 194.1 L 771.7 219.6 L 788.8 219.6 L 806.0 226.9 L 823.1 221.4 L 840.2 236.0 L 857.3 106.6 L 874.4 236.0 L 891.5 152.2 L 908.7 168.6 L 925.8 192.3 L 942.9 132.1 L 960.0 77.5 L 960 236 Z" fill="url(#g)" opacity="0.5"/>
+<path d="M L 70.0 236.0 L 87.1 232.4 L 104.2 234.2 L 121.3 236.0 L 138.5 236.0 L 155.6 236.0 L 172.7 236.0 L 189.8 234.2 L 206.9 236.0 L 224.0 236.0 L 241.2 236.0 L 258.3 234.2 L 275.4 236.0 L 292.5 236.0 L 309.6 234.2 L 326.7 234.2 L 343.8 236.0 L 361.0 210.5 L 378.1 236.0 L 395.2 234.2 L 412.3 226.9 L 429.4 234.2 L 446.5 236.0 L 463.7 217.8 L 480.8 236.0 L 497.9 201.4 L 515.0 228.7 L 532.1 236.0 L 549.2 236.0 L 566.3 234.2 L 583.5 181.3 L 600.6 212.3 L 617.7 234.2 L 634.8 236.0 L 651.9 194.1 L 669.0 226.9 L 686.2 232.4 L 703.3 203.2 L 720.4 199.6 L 737.5 217.8 L 754.6 194.1 L 771.7 219.6 L 788.8 219.6 L 806.0 226.9 L 823.1 221.4 L 840.2 236.0 L 857.3 106.6 L 874.4 236.0 L 891.5 152.2 L 908.7 168.6 L 925.8 192.3 L 942.9 132.1 L 960.0 77.5" fill="none" stroke="#FF6B6B" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="960.0" cy="77.5" r="4" fill="#FF4757"/>
+<text x="70.0" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Oct</text>
+<text x="144.2" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Nov</text>
+<text x="218.3" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Dec</text>
+<text x="292.5" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Jan</text>
+<text x="366.7" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Feb</text>
+<text x="440.8" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Mar</text>
+<text x="515.0" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Apr</text>
+<text x="589.2" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">May</text>
+<text x="663.3" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Jun</text>
+<text x="737.5" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Jul</text>
+<text x="811.7" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Aug</text>
+<text x="885.8" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Sep</text>
+<text x="960.0" y="258" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">Oct</text>
+<text x="974" y="290" font-family="Verdana,Segoe UI,sans-serif" font-size="11" fill="#8B949E" text-anchor="end">last week: 87 commits</text>
+</svg>

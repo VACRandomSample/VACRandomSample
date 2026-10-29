@@ -28,12 +28,6 @@
 | 🌙 **Режим** | Пишу код ночами — когда встаёт багровая луна |
 | 🚪 **Врата** | Открыт к коллаборациям и интересным задачам |
 
-<div align="center">
-  <a href="https://github.com/VACRandomSample">
-    <img src="https://komarev.com/ghpds/?username=VACRandomSample&theme=dark&hide_border=true&ring=E63946&color=C9D1D9&name-color=E63946&count-private=true" alt="доп. статы" />
-  </a>
-</div>
-
 <img src="assets/divider.gif" width="100%" alt="" />
 
 ## ⚔️ 「Арсенал」
@@ -50,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/VACRandomSample">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=VACRandomSample&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=FF6B6B&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="статистика" />
+    <img src="assets/cards/stats.svg" width="49%" alt="статистика" />
   </a>
   <a href="https://github.com/VACRandomSample">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VACRandomSample&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=8" alt="языки" />
+    <img src="assets/cards/langs.svg" width="49%" alt="языки" />
   </a>
 </div>
 
@@ -65,12 +59,12 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=VACRandomSample&theme=darkhub&row=1&column=7&margin-w=6&no-frame=true&no-bg=true" alt="трофеи" />
+    <img width="97%" src="assets/cards/rank.svg" alt="ранг Готэя" />
   </a>
 </div>
 
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=VACRandomSample&bg_color=0D1117&color=E63946&line=E63946&point=FF6B6B&area=true&area_color=8A0E20&hide_border=true" alt="график активности" />
+  <img width="97%" src="assets/cards/graph.svg" alt="график активности" />
 </div>
 
 <picture>

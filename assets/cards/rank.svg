@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img">
+<title>VACRandomSample - seireitei rank</title>
+<rect x="0.5" y="0.5" width="999" height="129" rx="12" fill="#0D1117" stroke="#30363D"/>
+<rect x="0.5" y="10" width="4" height="110" rx="2" fill="#8A0E20"/>
+<text x="30" y="56" font-family="Verdana,Segoe UI,sans-serif" font-size="22" font-weight="bold" letter-spacing="2" fill="#E63946">SEIREITEI RANK</text>
+<text x="30" y="92" font-family="Verdana,Segoe UI,sans-serif" font-size="20" fill="#F0F0F5">隊長  CAPTAIN</text>
+<rect x="420" y="74" width="540" height="12" rx="6" fill="#161B22" stroke="#30363D"/>
+<rect x="420" y="74" width="64" height="12" rx="6" fill="#FF6B6B"/>
+<text x="960" y="62" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#8B949E" text-anchor="end">560 / 1000 commits to BANKAI</text>
+</svg>
