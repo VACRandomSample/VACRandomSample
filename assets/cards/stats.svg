@@ -6,7 +6,7 @@
 <line x1="26" y1="52" x2="444" y2="52" stroke="#30363D" stroke-width="1"/>
 <text x="28" y="82" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#FF6B6B">⚔</text>
 <text x="54" y="82" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#C9D1D9">Commits (year)</text>
-<text x="444" y="82" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">579</text>
+<text x="444" y="82" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">628</text>
 <text x="28" y="109" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#FF6B6B">★</text>
 <text x="54" y="109" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#C9D1D9">Stars earned</text>
 <text x="444" y="109" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">6</text>
@@ -15,5 +15,5 @@
 <text x="444" y="136" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">18</text>
 <text x="28" y="163" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#FF6B6B">◉</text>
 <text x="54" y="163" font-family="Verdana,Segoe UI,sans-serif" font-size="13" fill="#C9D1D9">Followers</text>
-<text x="444" y="163" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">3</text>
+<text x="444" y="163" font-family="Verdana,Segoe UI,sans-serif" font-size="13" font-weight="bold" fill="#F0F0F5" text-anchor="end">4</text>
 </svg>
