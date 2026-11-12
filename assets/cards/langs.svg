@@ -14,7 +14,7 @@
 <circle cx="30" cy="118" r="4" fill="#E63946"/>
 <text x="40" y="122" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">Go 42.6%</text>
 <circle cx="244" cy="118" r="4" fill="#FF6B6B"/>
-<text x="254" y="122" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">Python 29.4%</text>
+<text x="254" y="122" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">Python 29.5%</text>
 <circle cx="30" cy="140" r="4" fill="#FF9AA4"/>
 <text x="40" y="144" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">TypeScript 22.0%</text>
 <circle cx="244" cy="140" r="4" fill="#C1121F"/>
@@ -24,5 +24,5 @@
 <circle cx="244" cy="162" r="4" fill="#B02A37"/>
 <text x="254" y="166" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">C 0.4%</text>
 <circle cx="30" cy="184" r="4" fill="#6E7681"/>
-<text x="40" y="188" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">Other 0.8%</text>
+<text x="40" y="188" font-family="Verdana,Segoe UI,sans-serif" font-size="12" fill="#C9D1D9">Other 0.7%</text>
 </svg>
